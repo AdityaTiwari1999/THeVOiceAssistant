@@ -1,2 +1,2 @@
-# THeVOiceAssistant
+# TheVoiceAssistant
 Major Project
